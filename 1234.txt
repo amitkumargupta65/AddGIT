@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 20C5-A7C9
+
+ Directory of C:\GitHUB
+
+06/20/2017  08:48 PM    <DIR>          .
+06/20/2017  08:48 PM    <DIR>          ..
+06/20/2017  08:48 PM                 0 1234.txt
+06/20/2017  07:36 PM               332 anit.txt
+06/20/2017  08:13 PM               435 sendmail.txt
+06/20/2017  08:06 PM               382 text1.txt
+               4 File(s)          1,149 bytes
+               2 Dir(s)  26,014,986,240 bytes free
